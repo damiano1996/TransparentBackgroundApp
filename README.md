@@ -1,6 +1,7 @@
 # TRANSPARENT BACKGROUND EFFECT
 
 Simple and easy to use library to apply in your Activity a transparency effect.
+
 This library implement this project: [BlurImage](https://github.com/sparrow007/BlurImage)
 
 <table style="width:100%">
