@@ -6,12 +6,12 @@ This library implement this project: [BlurImage](https://github.com/sparrow007/B
 
 <table style="width:100%">
   <tr>
-    <th><img src="http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170115.png" width="200"></th>
-    <th><img src="http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170100.png" width="200"></th>
+    <th><img src="https://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170115.png" width="200"></th>
+    <th><img src="https://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170100.png" width="200"></th>
   </tr>
   <tr>
-    <td><img src="http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170139.png" width="200"></td>
-    <td><img src="http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170206.png" width="200"></td>
+    <td><img src="https://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170139.png" width="200"></td>
+    <td><img src="https://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170206.png" width="200"></td>
   </tr>
 </table>
 
