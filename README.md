@@ -37,7 +37,7 @@ allprojects {
 ```
 dependencies {
     ...
-    compile 'com.github.damiano9669:transparentbackground:0.1.0'
+    implementation 'com.github.damiano9669:transparentbackground:0.1.0'
 }
 ```
 
