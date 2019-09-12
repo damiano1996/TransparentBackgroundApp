@@ -21,16 +21,27 @@ This library implement this project: [BlurImage](https://github.com/sparrow007/B
 ## Gradle
 ------
 
-#### Step #1. Add the dependency
+#### Step #1. Add in Project build.gradle
+
+```
+allprojects {
+ repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
+ }
+}
+```
+
+#### Step #2. Add the dependency
 
 ```
 dependencies {
     ...
-    compile 'com.github.damiano996:transparentbackground:0.1.0'
+    compile 'com.github.damiano9669:transparentbackground:0.1.0'
 }
 ```
 
-#### Step #2. Add the below lines on app module build.gradle file.
+#### Step #3. Add the below lines on app module build.gradle file.
 
 ```groovy
 defaultConfig {
