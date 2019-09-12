@@ -3,10 +3,10 @@
 Simple and easy to use library to apply in your Activity a transparency effect.
 This library implement this project: [BlurImage](https://github.com/sparrow007/BlurImage)
 
-![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170115.png)
-![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170100.png)
-![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170139.png)
-![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170206.png)
+![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170115.png =250x)
+![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170100.png =250x)
+![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170139.png =250x)
+![alt text](http://circleforcerevenge.altervista.org/GitHubImages/transparentbackground/Screenshot_20190912-170206.png =250x)
 
 
 # USAGE
