@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TransparentBackgroundApp</string>
+
+    <string name="prompt_text">Hello World!\nThis is an example of Activity with transparent background effect.</string>
+</resources>
