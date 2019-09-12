@@ -17,7 +17,6 @@ This library implement this project: [BlurImage](https://github.com/sparrow007/B
 
 
 # USAGE
------
  
 ## Gradle
 ------
@@ -51,6 +50,6 @@ In your Activity add the line:
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        transparentBackground(this, 10);
+        transparentBackground(this, 10); // add this line
     }
 ```
